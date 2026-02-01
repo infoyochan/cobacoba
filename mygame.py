@@ -5,3 +5,6 @@ def main():
 
 def kuadrat(x):
     return x*x
+
+def dobel(x):
+    return 2*x
